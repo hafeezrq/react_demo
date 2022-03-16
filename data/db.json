@@ -23,6 +23,12 @@
       "title": "Testing a Fourth post",
       "datetime": "March 13, 2022 12:51:01 PM",
       "body": "Some more edited testing paragraphs!"
+    },
+    {
+      "id": 5,
+      "title": "This is a new Post",
+      "datetime": "March 13, 2022 9:08:36 PM",
+      "body": "useStoreState to post."
     }
   ]
 }
